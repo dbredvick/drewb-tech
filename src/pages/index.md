@@ -6,13 +6,10 @@ sections:
     type: intro
     title: Intro
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Welcome to Tech Stuff - my attempt to document my growth personally and professionaly. Most of my content will skew towards full-stack JavaScript development. I will also ramble about my active side projects, tech news, and anything else I find interesting.
     actions:
-      - label: Learn More
-        url: about.html
+      - label: More About Me
+        url: about
 menus:
   main:
     title: Home

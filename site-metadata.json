@@ -1,10 +1,10 @@
 {
     "header": {
-        "logo_img": "images/logo.png",
+        "title": "Tech Stuff",
         "has_nav": true
     },
     "footer": {
-        "content": "&copy; Stackbit-Ampersand. All rights reserved.",
+        "content": "&copy; Drew Bredvick. All rights reserved.",
         "links": [
             {
                 "text": "Made with Stackbit",
@@ -15,6 +15,6 @@
         "has_social": true
     },
     "layout_style": "grid",
-    "palette": "green",
-    "title": "Stackbit Ampersand Theme"
+    "palette": "blue",
+    "title": "Tech Stuff"
 }
