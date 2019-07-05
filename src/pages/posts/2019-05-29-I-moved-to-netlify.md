@@ -2,7 +2,7 @@
 title: I Moved to Netlify
 excerpt: >-
   Netlify is a super simple way to build and host JAMstack websites. Moving my site over was about a two hour project and was a breeze. TLDR; switch to Netlify. 
-date: '2019-04-09'
+date: '2019-05-29'
 thumb_img_path: images/netlify.png
 content_img_path: images/netlify.png
 template: post
