@@ -1,5 +1,5 @@
 ---
-title: Tech decisions and enterprise developer guilt 
+title: Tech decisions and developer guilt 
 excerpt: >-
   With the long weekend coming up, I'm sure many of you are starting side projects. I'm starting one this weekend, too. As usual, I got stuck on the "what tech stack should I use" question. Here's my updated take on that question with a little assistance from Seth Godin.
 date: '2019-07-05'
