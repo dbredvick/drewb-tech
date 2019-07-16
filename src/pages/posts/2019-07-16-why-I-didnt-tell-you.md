@@ -3,10 +3,10 @@ title: Why I Didn’t Tell You I Have Cancer
 excerpt: >-
   A quick note on why I've kept my cancer a secret, and why I'm telling you now.
 date: '2019-07-05'
-thumb_img_path: images/county-fair.png
-content_img_path: images/county-fair.png
+thumb_img_path: images/county-fair.jpg
+content_img_path: images/county-fair.jpg
 template: post
-twitter_image: images/county-fair-twitter.png
+twitter_image: images/county-fair-twitter.jpg
 ---
 
 In junior high, I was pantsed at the Red Willow county fair -- on a “date” nonetheless. Given the fact I was 14, I thought my dating life was over.
