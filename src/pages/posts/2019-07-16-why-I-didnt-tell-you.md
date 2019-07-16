@@ -45,7 +45,7 @@ It turns out cancer isn’t something you beat, it’s something you learn to li
 
 My recent blood work shows my [tumor markers](https://www.cancer.org/cancer/testicular-cancer/detection-diagnosis-staging/how-diagnosed.html) are back up in the “we need to check this out” range. This week I’ll be doing more bloodwork, CT and MRI scans, and nervously Googling all the scientific studies I can find on testicular cancer. 
 
-So, please reach out to me and let’s talk about this whole “cancer” thing. Let’s chat about it a few times until you’re out of questions and a little less scared. 
+So, please reach out to me and let’s talk about this whole “cancer” thing. Let’s chat about it a few times until you’re out of questions and a little less scared. If you scroll to the bottom of this page, you can find my social media accounts. This website even has a [contact page](https://drewb.tech/contact).
 
 But then comes the important part — **getting back to normal.** Talk to me about baseball, random tech topics, news, your favorite podcast, or how shitty your day at work was. 
 
