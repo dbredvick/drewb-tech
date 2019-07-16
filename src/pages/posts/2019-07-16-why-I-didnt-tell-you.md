@@ -3,7 +3,7 @@ title: Why I Didn’t Tell You I Have Cancer
 excerpt: >-
   A quick note on why I've kept my cancer a secret, and why I'm telling you now.
 date: '2019-07-05'
-thumb_img_path: images/
+thumb_img_path: images/vulnerability.png
 content_img_path: images/vulnerability.png
 template: post
 twitter_image: images/vulnerability-twitter.png
