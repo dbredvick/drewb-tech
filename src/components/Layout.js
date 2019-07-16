@@ -22,7 +22,8 @@ export default class Body extends React.Component {
           <meta property="og:title" content="Tech Stuff with Drew" />
           <meta property="og:description" content="Welcome to Tech Stuff - my attempt to document my growth personally and professionaly. Most of my content will skew towards full-stack JavaScript development. I will also ramble about my active side projects, tech news, and anything else I find interesting." />
           <meta property="og:type" content="article" />
-          <meta name="twitter:card" content="summary"></meta>
+          <meta name="twitter:card" content="summary_large_image"></meta>
+          <meta name="twitter:creator" content="@dbredvick"></meta>
         </Helmet>
         <div id="page" className={'site layout-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_style') + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette')}>
           <Header {...this.props} />
