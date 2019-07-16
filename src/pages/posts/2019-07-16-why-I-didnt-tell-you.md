@@ -1,5 +1,5 @@
 ---
-title: Why I Didn’t Tell You I Have Cancer 
+title: Why I Didn’t Tell You That I Have Cancer 
 excerpt: >-
   A quick note on why I've kept my cancer a secret, and why I'm telling you now.
 date: '2019-07-16'
