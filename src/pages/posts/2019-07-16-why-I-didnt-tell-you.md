@@ -9,9 +9,9 @@ template: post
 twitter_image: images/county-fair-twitter.jpg
 ---
 
-In junior high, I was pantsed at the Red Willow county fair -- on a “date” nonetheless. Given the fact I was 14, I thought my dating life was over.
+In junior high, I was pantsed at the Red Willow county fair – on a “date” nonetheless. Given the fact I was 14, I thought my dating life was over.
 
-It felt a lot like how I’m feeling right now -- anxious and exposed. 
+It felt a lot like how I’m feeling right now – anxious and exposed. 
 
 So instead of letting someone else pants me, I’m just going to do it myself.
 
