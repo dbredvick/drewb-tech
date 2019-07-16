@@ -16,7 +16,6 @@ export default class Post extends React.Component {
           <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.excerpt')} />
           <meta property="og:type" content="article" />
           <meta name="twitter:card" content="summary_large_image"></meta>
-          <meta name="twitter:image" content=""></meta>
         </Helmet>
         <article className="post post-full">
           <header className="post-header">
