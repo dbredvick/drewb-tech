@@ -6,6 +6,7 @@ date: '2019-05-29'
 thumb_img_path: images/netlify.png
 content_img_path: images/netlify.png
 template: post
+twitter_image: images/netlify-twitter.png
 ---
 
 ## The hype is real

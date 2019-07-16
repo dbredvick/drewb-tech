@@ -6,6 +6,7 @@ date: '2019-07-05'
 thumb_img_path: images/decision.jpg
 content_img_path: images/decision.jpg
 template: post
+twitter_image: images/decision-twitter.jpg
 ---
 
 Getting stuck on tech decisions. 
