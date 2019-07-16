@@ -12,6 +12,13 @@ export default class Post extends React.Component {
       <Layout {...this.props}>
         <Helmet>
           <meta property="og:image" content={safePrefix(_.get(this.props, 'pageContext.frontmatter.content_img_path'))}></meta>
+          <meta property="og:title" content={_.get(this.props, 'pageContext.frontmatter.title')} />
+          <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.excerpt')} />
+          <meta property="og:type" content="article" />
+          <meta name="twitter:card" content="summary_large_image"></meta>
+          <meta name="twitter:image" content={safePrefix(_.get(this.props, 'pageContext.frontmatter.twitter_image'))}></meta>
+
+
         </Helmet>
         <article className="post post-full">
           <header className="post-header">

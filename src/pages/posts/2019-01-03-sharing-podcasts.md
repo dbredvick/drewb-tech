@@ -7,6 +7,7 @@ template: post
 tags: ['main']
 thumb_img_path: images/sharingLarge.jpg
 content_img_path: images/sharingLarge.jpg
+twitter_image: images/sharing-twitter.jpg
 ---
 
 ## The Problem:
