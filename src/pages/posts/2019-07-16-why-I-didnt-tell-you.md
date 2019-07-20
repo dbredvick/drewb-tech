@@ -43,7 +43,7 @@ I thought I’d look back at this timeframe five years from now and go, “man, 
 
 It turns out cancer isn’t something you beat, it’s something you learn to live with. 
 
-My recent blood work shows my [tumor markers](https://www.cancer.org/cancer/testicular-cancer/detection-diagnosis-staging/how-diagnosed.html) are back up in the “we need to check this out” range. This week I’ll be doing more bloodwork, CT and MRI scans, and nervously Googling all the scientific studies I can find on testicular cancer. 
+My recent blood work shows my [tumor markers](https://www.cancer.org/cancer/testicular-cancer/detection-diagnosis-staging/how-diagnosed.html) are back up in the “we need to check this out” range. This means more bloodwork, diagnostic scans, and doctors appointments.
 
 I believe in honesty, openness, and transparency. After a year of skipping out early for doctors appointments, being vague with my team, and wincing every time I hear the word "cancer", I've decided it's time to let people in. 
 
