@@ -59,12 +59,16 @@ It's important to measure the value a house adds to your life when making this d
 ## Complicated, but not complex
 There are a lot of questions to answer, but once you have them answered your decision should be straightforward. I couldn't find any tools outside of mortgage calculators to help me make this decision.
 
-That's why I built [ShouldIBuyThis.House](https://ShouldIBuyThis.House).
+That's why I started building [ShouldIBuyThis.House](https://ShouldIBuyThis.House).
 
-### Getting started
+### My goal
+Most of my content on this site has promoted building small, functional products and iterating quickly.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New rule: <br><br>Build a basic version in 1-2 weekends. Put it out there.<br><br>Applies to features, products, blog posts — anything really. <br><br>Inspired by <a href="https://twitter.com/shl?ref_src=twsrc%5Etfw">@shl</a> and <a href="https://twitter.com/levelsio?ref_src=twsrc%5Etfw">@levelsio</a>. <a href="https://twitter.com/hashtag/sideproject?src=hash&amp;ref_src=twsrc%5Etfw">#sideproject</a> <a href="https://twitter.com/hashtag/IndieHackers?src=hash&amp;ref_src=twsrc%5Etfw">#IndieHackers</a></p>&mdash; Drew Bredvick (@DBredvick) <a href="https://twitter.com/DBredvick/status/1152682809460494337?ref_src=twsrc%5Etfw">July 20, 2019</a></blockquote>
+
+I'm setting a two week deadline from today to finish this project.
+
 ShouldIBuyThis.House will ask you a some of these questions. Answer each question with your best guess. Then, it will provide you a reccomendation on whether you should buy or not. Easily export your results and share them with your partner, financial adviser, or realtor. 
 
-// add walkthrough here
-
 ### What's next?
-I have a long list of features to add to the site. The first priority is account support so you can save your results. Have any suggestions on what I should work on next? Hit me up using the [contact page](/contact) on this site.
+I have a long list of features to add to the site. The first priority is account support so you can save your results. Have any suggestions on what I should include in the site? Hit me up using the [contact page](/contact) on this site.
