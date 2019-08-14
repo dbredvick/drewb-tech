@@ -3,7 +3,8 @@ module.exports = {
     siteMetadata: require('./site-metadata.json'),
     plugins: [
         `gatsby-plugin-react-helmet`,
-	`gatsby-mdx`,
+        `gatsby-plugin-twitter`,
+        `gatsby-mdx`,
         `gatsby-source-data`,
         {
             resolve: `gatsby-source-filesystem`,
@@ -28,7 +29,7 @@ module.exports = {
         {
             resolve: `gatsby-remark-page-creator`,
             options: {
-                
+
             }
         },
         {
