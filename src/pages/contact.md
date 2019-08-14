@@ -8,4 +8,6 @@ menus:
 template: contact
 ---
 
-Fill the form below to get in touch with me.
+Tweet me or fill out the form below.
+
+<a href="https://twitter.com/DBredvick?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @DBredvick</a>
