@@ -10,13 +10,10 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "@mdx-js/mdx": "^1.0.20",
-    "@mdx-js/react": "^1.0.20",
     "@stackbit/gatsby-plugin-menus": "0.0.4",
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",
-    "gatsby": "2.3.0",
-    "gatsby-mdx": "^0.6.3",
+    "gatsby": "^2.15.9",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-twitter": "^2.1.2",
     "gatsby-source-filesystem": "^2.0.2",
