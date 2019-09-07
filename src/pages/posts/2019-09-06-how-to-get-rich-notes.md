@@ -1,12 +1,12 @@
 ---
-title: How to Get Rich (Naval) Notes - Part 1
+title: How to Get Rich (Naval) Notes
 excerpt: >-
   I listened to Naval Ravikant's Twitter thread turned podcast about the concept of wealth creation nearly 30 times. Here are the takeaways.
 date: '2019-09-06'
-thumb_img_path: images/home.jpg
-content_img_path: images/home.jpg
+thumb_img_path: images/building-wealth-podcast-image.png
+content_img_path: images/building-wealth-podcast-image.png
 template: post
-twitter_image: images/home-twitter.jpg
+twitter_image: images/building-wealth-podcast-image.png
 ---
 ## Who is Naval?
 **Naval Ravikant** is a founder and current Chairman of [AngelList](https://angel.co). I found him via a [Joe Rogan podcast](https://www.youtube.com/watch?v=3qHkcs3kG44) back in June. He has a great [Twitter account](https://twitter.com/naval) and you can read more about him at [https://nav.al/about](https://nav.al/about) and [https://theangelphilosopher.com](https://theangelphilosopher.com).
@@ -248,3 +248,8 @@ Don&#39;t listen to success stories. Everyone is giving you their steps to succe
 Use advice as a way to remember things you have personally learned.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">When you&#39;re finally wealthy, you&#39;ll realize that it wasn&#39;t what you were seeking in the first place. But that&#39;s for another day.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1002109558058237953?ref_src=twsrc%5Etfw">May 31, 2018</a></blockquote>
+
+---
+
+# Thanks for reading
+Let me know what you thought on Twitter! Be sure to sign up for my newsletter below if you found this post interesting.
