@@ -23,6 +23,10 @@ export default class Body extends React.Component {
           <meta property="og:description" content="Welcome to Tech Stuff - my attempt to document my growth personally and professionaly. Most of my content will skew towards full-stack JavaScript development. I will also ramble about my active side projects, tech news, and anything else I find interesting." />
           <meta property="og:type" content="article" />
           <meta name="twitter:creator" content="@dbredvick"></meta>
+          <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png"/>
+          <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png"/>
+          <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png"/>
+          <link rel="manifest" href="/assets/site.webmanifest"></link>
         </Helmet>
         <div id="page" className={'site layout-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_style') + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette')}>
           <Header {...this.props} />
