@@ -6,6 +6,21 @@ module.exports = {
         `gatsby-plugin-twitter`,
         `gatsby-source-data`,
         {
+            resolve: "gatsby-plugin-google-tagmanager",
+            options: {
+              id: "GTM-5RHXDKV",
+        
+              // Include GTM in development.
+              // Defaults to false meaning GTM will only be loaded in production.
+              includeInDevelopment: false,
+        
+              // datalayer to be set before GTM is loaded
+              // should be an object or a function that is executed in the browser
+              // Defaults to null
+              defaultDataLayer: { platform: "gatsby" },
+            },
+          },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `pages`,
