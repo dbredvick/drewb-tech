@@ -74,9 +74,7 @@ This section seems heavily influenced by Nassim Taleb. Marc Andreessen&#39;s blo
 
 You want to be the type of person who knows how to become wealthy, not just be a wealthy person.
 
-You want to be rich in 999/1000 parallel universes. It&#39;s handy to use Taleb&#39;s thought experiment in _Fooled by Randomness._
-
-Taleb thought experiment here about a dentist, safe trader, and risky trader.
+You want to be rich in 999/1000 parallel universes. It&#39;s handy to use Taleb&#39;s thought experiment of "alternative histories" in _Fooled by Randomness._ Check it out in this [Farnam Street post](https://fs.blog/2014/03/nassim-taleb-alternative-history/).
 
 There are four kinds of luck:
 - Blind
