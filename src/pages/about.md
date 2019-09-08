@@ -10,9 +10,7 @@ menus:
 
 ## Me (& Sam and Ellie)
 ![Sam and Ellie](/images/SamAndEllie.JPG "Sam and Ellie")
-I'm currently living in Austin, Texas, but I grew up in a small town in Western Nebraska. I got hooked on electronics at a young age with the help of my dad. My tech love started with video games: first playing them, then trying to hack them, and finally trying to build them. I found a career in something similar - solving the puzzle that is software. In the day you can find me at your local coffee shop checking r/all on Reddit. I spend my nights checking out the latest JavaScript news and throwing together a new "Hello, World!" application with the latest tech. I have an amazing girlfriend, Sam, and a ridicioulys cute puppy, Ellie.
-
-
+I'm currently living in Austin, Texas, but I grew up in a small town in Western Nebraska. I got hooked on electronics at a young age with the help of my dad. My tech love started with video games: first playing them, then trying to hack them, and finally trying to build them. I found a career in something similar - solving the puzzle that is software. In the day you can find me at your local coffee shop checking r/all on Reddit. I spend my nights checking out the latest JavaScript news and throwing together a new "Hello, World!" application with the newest tech. I have an amazing girlfriend, Sam, and a crazy cute puppy, Ellie.
 
 ## My work
 I'm a full-stack JavaScript with experience in [NodeJS](https://nodejs.org/) and [React](https://reactjs.org). I love solving consumers' problems and building e-commerce solutions. 
@@ -25,7 +23,7 @@ At the end of my time at Spreetail, I helped build out [StrongerThanHunger.org](
 ![Stronger than hunger](/images/stronger-than-hunger.png "Stronger Than Hunger")
 
 ### [Spreetail.com](https://www.spreetail.com)
-I was previously at Spreetail, where I helped hire a team of <i>great</i> engineers, designers, and product owners. Together, we build a great e-commerce experience in a few short months. Spreetail has since stopped investing in their business-to-consumer channels.
+I was previously at Spreetail, where I helped hire a team of <i>amazing</i> engineers, designers, and product owners. Together, we build an great e-commerce experience in a few short months. Spreetail has since stopped investing in their business-to-consumer channels.
 ![Spreetail.com](/images/spreetail.png "Spreetail.com")
 
 ### [DashrSystems.com](https://www.dashrsystems.com)
