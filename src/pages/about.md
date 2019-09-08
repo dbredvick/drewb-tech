@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About Me | Drew Bredvick
 subtitle: This is a short page about me and my work
 template: page
 menus:

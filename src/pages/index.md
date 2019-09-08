@@ -6,7 +6,7 @@ sections:
     type: intro
     title: Intro
     content: >-
-      Welcome to Tech Stuff - my attempt to document my growth personally and professionally. Most of my content will skew towards full-stack JavaScript development. I will also ramble about my active side projects, tech news, and anything else I find interesting.
+      Welcome to Tech Stuff, where I share my analysis of <b>software development</b>, <b>productivity</b>, <b>wealth</b>, and <b>health</b>. I document everything I learn. Come learn and grow with me 💪🧠
     actions:
       - label: Sign up for my newsletter
         url: /#subscribe

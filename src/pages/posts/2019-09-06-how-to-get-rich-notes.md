@@ -9,10 +9,10 @@ template: post
 twitter_image: images/building-wealth-podcast-image.png
 ---
 ## Who is Naval?
-**Naval Ravikant** is a founder and current Chairman of [AngelList](https://angel.co). I found him via a [Joe Rogan podcast](https://www.youtube.com/watch?v=3qHkcs3kG44) back in June. He has a great [Twitter account](https://twitter.com/naval) and you can read more about him at [https://nav.al/about](https://nav.al/about) and [https://theangelphilosopher.com](https://theangelphilosopher.com).
+**Naval Ravikant** is a founder and current Chairman of [AngelList](https://angel.co). I found him via a [Joe Rogan podcast](https://www.youtube.com/watch?v=3qHkcs3kG44) back in June. He has a great [Twitter account](https://twitter.com/naval) and you can read more about him at [https://nav.al/about](https://nav.al/about).
 
 ## What is this post about?
-Naval posted a [Twitter thread](https://twitter.com/naval/status/1002103360646823936) with his philosophy on wealth creation. His cofounder interviewed him about the thread, and together the clips form a nearly THREE HOUR long podcast [(link)](https://pca.st/episode/fa41637c-ef96-45a8-b942-9c88b61139a8). I love philosophy, finance, and podcasts, so this episode was like catnip for me.
+Naval posted a Twitter thread with his philosophy on wealth creation. His cofounder interviewed him about the thread, and together the clips form a nearly THREE HOUR long podcast [(link)](https://pca.st/episode/fa41637c-ef96-45a8-b942-9c88b61139a8). I love philosophy, finance, and podcasts, so this episode was like catnip for me.
 
 I listened to the episode so many times (it has to be nearly 30 at this point) I thought I would share my notes. Follow me on Twitter and share your thoughts!
 
@@ -91,7 +91,7 @@ Steady creation is key. Put in the work. It helps you build assets and build a r
 
 You want to be number one, but you need to change what you&#39;re doing until you&#39;re number one. Don&#39;t pick something arbitrary.
 
-Scott Adams (creator of Dilbert) work influences this section heavily. I recently read [How to Fail at Almost Everything and Still Win Big](https://amzn.to/2A8N57D). I can&#39;t recommend it enough.
+Scott Adams (creator of Dilbert) work influences this section heavily. I recently read _How to Fail at Almost Everything and Still Win Big_. I can&#39;t recommend it enough. Subscribe to my [email newsletter below](#subscribe) to get it in your inbox.
 
 Since everyone is connected via the internet, find an audience that fits your natural skillset. Escape competition through authenticity.
 
@@ -249,5 +249,5 @@ Use advice as a way to remember things you have personally learned.
 
 ---
 
-# Thanks for reading
+## Thanks for reading
 Let me know what you thought on Twitter! Be sure to sign up for my newsletter below if you found this post interesting.
