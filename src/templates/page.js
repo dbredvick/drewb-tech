@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import { Helmet } from 'react-helmet';
 
 import {Layout} from '../components/index';
 import {htmlToReact, safePrefix} from '../utils';
@@ -7,6 +8,10 @@ import {htmlToReact, safePrefix} from '../utils';
 export default class Page extends React.Component {
     render() {
         return (
+          <>
+            <Helmet>
+              <meta></meta>
+            </Helmet>
             <Layout {...this.props}>
               <article className="post page post-full">
                 <header className="post-header">
@@ -27,6 +32,7 @@ export default class Page extends React.Component {
                 </div>
               </article>
             </Layout>
+          </>
         );
     }
 }
