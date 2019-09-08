@@ -9,7 +9,7 @@ import Footer from './Footer';
 
 export default class Body extends React.Component {
   render() {
-    const desc = 'Welcome to Tech Stuff, where I share my analysis of <b>software development</b>, <b>productivity</b>, <b>wealth</b>, and <b>health</b>. Come learn and grow with me 💪🧠';
+    const desc = 'Welcome to Tech Stuff, where I share my analysis of <b>software development</b>, <b>productivity</b>, <b>wealth</b>, and <b>health</b>. Come learn and grow with me 📝💪🧠';
     return (
       <React.Fragment>
         <Helmet>
