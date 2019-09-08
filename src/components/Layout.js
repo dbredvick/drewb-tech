@@ -9,9 +9,11 @@ import Footer from './Footer';
 
 export default class Body extends React.Component {
   render() {
+    const desc = 'Welcome to Tech Stuff, where I share my analysis of <b>software development</b>, <b>productivity</b>, <b>wealth</b>, and <b>health</b>. I document everything I learn. Come learn and grow with me 💪🧠';
     return (
       <React.Fragment>
         <Helmet>
+          
           <title>{_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - '}{_.get(this.props, 'pageContext.site.siteMetadata.title')}</title>
           <meta charSet="utf-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -21,8 +23,8 @@ export default class Body extends React.Component {
           <link rel="stylesheet" href={safePrefix('assets/css/main.css')} />
           <meta property="og:image" content={safePrefix(_.get(this.props, 'pageContext.frontmatter.content_img_path'))}></meta>
           <meta property="og:title" content="Tech Stuff with Drew" />
-          <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.subtitle')} />
-          <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.subtitle')} />
+          <meta property="og:description" content={desc} />
+          <meta name="description" content={desc} />
           <meta property="og:type" content="article" />
           <meta name="twitter:creator" content="@dbredvick"></meta>
           <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png"/>
