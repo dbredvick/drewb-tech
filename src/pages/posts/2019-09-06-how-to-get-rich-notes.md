@@ -79,7 +79,7 @@ You want to be rich in 999/1000 parallel universes. It&#39;s handy to use Taleb&
 There are four kinds of luck:
 - Blind
 - Hustle
-- Preperation (pattern recognition)
+- Preparation (pattern recognition)
 - Uniqueness (luck finds you)
 
 This reminds me a lot of Seth Godin&#39;s intro to [The Dip](https://amzn.to/2LJpQGD) - &quot;Being the best is in the world is seriously underrated.&quot;
