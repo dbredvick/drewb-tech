@@ -23,7 +23,7 @@ At the end of my time at Spreetail, I helped build out [StrongerThanHunger.org](
 ![Stronger than hunger](/images/stronger-than-hunger.png "Stronger Than Hunger")
 
 ### [Spreetail.com](https://www.spreetail.com)
-I was previously at Spreetail, where I helped hire a team of <i>amazing</i> engineers, designers, and product owners. Together, we build an great e-commerce experience in a few short months. Spreetail has since stopped investing in their business-to-consumer channels.
+I was previously at Spreetail, where I helped hire a team of <i>amazing</i> engineers, designers, and product owners. Together, we build a great e-commerce experience in a few short months. Spreetail has since stopped investing in their business-to-consumer channels.
 ![Spreetail.com](/images/spreetail.png "Spreetail.com")
 
 ### [DashrSystems.com](https://www.dashrsystems.com)
