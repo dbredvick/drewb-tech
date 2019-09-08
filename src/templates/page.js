@@ -8,11 +8,13 @@ import {htmlToReact, safePrefix} from '../utils';
 export default class Page extends React.Component {
     render() {
         return (
-          <>
+          <React.Fragment>
             <Helmet>
             {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
-              <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.subtitle')}></meta>
-              <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.subtitle')}></meta>
+              <React.Fragment>
+                <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.subtitle')}></meta>
+                <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.subtitle')}></meta>
+              </React.Fragment>
             }
             </Helmet>
             <Layout {...this.props}>
@@ -35,7 +37,7 @@ export default class Page extends React.Component {
                 </div>
               </article>
             </Layout>
-          </>
+          </React.Fragment>
         );
     }
 }
