@@ -5,6 +5,7 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-plugin-twitter`,
         `gatsby-source-data`,
+        `gatsby-plugin-sitemap`,
         {
             resolve: "gatsby-plugin-google-tagmanager",
             options: {
