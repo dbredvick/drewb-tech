@@ -13,7 +13,7 @@ Time for your one-on-one with your manager to set next quarter’s goals. Quickl
 
 ...
 
-Now it’s the end of the quarter. **Congrats**! You accomplished one of your goals but fell short in the other two. How do you feel? If the answer is *”ehhhh*”, it might be because this system isn’t for you. 
+Now it’s the end of the quarter. **Congrats**! You accomplished one of your goals but fell short in the other two. How do you feel? If the answer is *”ehhhh*”, it might be because chasing goals isn’t for you. 
 
 ### The problem with goal setting
 
@@ -45,13 +45,15 @@ Ride my bike to work every day, not save money on Uber this month.
 
 Meal prep my lunches for the week, not cut cost by 50% on eating out. 
 
-## personal life
+## Fitness
 
 Workout 4x a week, not gain 5 lbs of muscle
 
+## Relationships
+
 Call my family once a week, not have a close family relationship.
 
-## References
+## Inspiration and extra resources
 
 Atomic habits
 
@@ -60,7 +62,16 @@ Scott Adams
 Naval
 
 
-### CTA
+## Submit your own systems
+get MDX working here and add a netlify form ??
 
-Disagree with anything in this post? Want to read more like this? Follow me on Twitter and let's chat.
+### FAQ
+
+##### I have more examples of Systems vs Goals. Can I add them to your cheatsheet?
+Yes! Tweet at me or 
+##### I found something wrong with this post.
+I love feeback. Please message me your thoughts! 
+
+Follow me on Twitter and let's chat.
+  
 <a href="https://twitter.com/dbredvick?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @dbredvick</a>
