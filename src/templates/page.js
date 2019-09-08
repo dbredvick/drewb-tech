@@ -9,14 +9,12 @@ export default class Page extends React.Component {
     render() {
         return (
             <Layout {...this.props}>
-              <Helmet>
               {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
-                <React.Fragment>
+              <Helmet>
                   <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.subtitle')}></meta>
                   <meta property="og:description" content={_.get(this.props, 'pageContext.frontmatter.subtitle')}></meta>
-                </React.Fragment>
-              }
               </Helmet>
+              }
               <article className="post page post-full">
                 <header className="post-header">
                   <h1 className="post-title">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
